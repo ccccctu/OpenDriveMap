@@ -1,0 +1,22 @@
+casadi==3.6.6
+contourpy==1.2.1
+cycler==0.12.1
+eulerspiral @ https://github.com/stefan-urban/pyeulerspiral/archive/master.zip#sha256=ccdc3d0f5f0ca9b4f7f07bf7fcadbf590538e9449b9512da57480bb285a8ebcc
+fonttools==4.53.1
+imageio==2.35.1
+kiwisolver==1.4.5
+lxml==5.3.0
+matplotlib==3.9.2
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp311-cp311-win_amd64.whl#sha256=5dfd3e04dc1c2826d3f404fdc7f93c097901f5da9b91f4f394f79d4e038ed81d
+orjson==3.10.11
+packaging==24.1
+pillow==10.4.0
+pygame==2.6.1
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+scipy==1.14.1
+shapely==2.0.6
+six==1.16.0
